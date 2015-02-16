@@ -13,4 +13,4 @@ After you built the project you have to register the file: `Hahndorf.IIS.Downloa
 
 Next you have to add the provider to your site and add a rule. See the `web.config` file for an example of this.
 
-Make sure you IIS Application pool runs .Net 4
+Make sure your IIS Application pool runs .Net 4
